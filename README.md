@@ -5,7 +5,7 @@
 The following code is focused on data analysis using the K-means algorithm and principal component analysis (PCA) to classify cryptocurrencies according to their price fluctuations across various timeframes. Specifically, the code will examine price changes over intervals spanning 24 hours, 7 days, 30 days, 60 days, 200 days, and 1 year.
 
 The code will require functions, libraries, dependencies, and import of a csv file. 
-This code is available at Github under ().
+This code is available at Github under (https://github.com/algjor/CryptoClustering).
 
 ## Description of Code:
 This code was completed using the following steps.
